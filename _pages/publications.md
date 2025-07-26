@@ -6,11 +6,11 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find full list of my publications on my [Google Scholar profile]().
+You can find the full list of my publications on my [Google Scholar profile]({{ site.author.googlescholar }}).
 
 
 ## Selected Publications
----
+
 
 ### Journal Articles
 ---

@@ -52,3 +52,45 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
 }
+
+/* Dark-mode contrast override for Research Interests panels */
+.research-interests {
+  color: var(--global-text-color) !important;
+}
+
+.research-interests details,
+.research-interests details summary,
+.research-interests details summary > strong,
+.research-interests details summary ~ ul,
+.research-interests details summary ~ p {
+  color: var(--global-text-color) !important;
+}
+
+.research-interests li,
+.research-interests li::marker {
+  color: var(--global-text-color) !important;
+}
+
+
+/* Publication blocks */
+html[data-theme="dark"] .publication-block {
+    background-color: #1f1f1f; /* dark mode base */
+    border: 1px solid #444444;
+  }
+  
+html[data-theme="dark"] .publication-title {
+    color: #ffffff;
+  }
+  
+html[data-theme="dark"] .author-name,
+html[data-theme="dark"] .journal-name,
+html[data-theme="dark"] .conference-name {
+    color: white;
+  }
+  
+html[data-theme="dark"] .links a.pdf {
+    background-color: #0078d4;
+  }
+html[data-theme="dark"] .links a.pdf:hover {
+    background-color: #005fa1;
+  }
