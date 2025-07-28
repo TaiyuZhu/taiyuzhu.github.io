@@ -9,7 +9,7 @@ author_profile: true
 
 Current Teaching
 -----
-
+- Introduction to Health Informatics, MSc in Applied Statistical Modelling & Health Informatics, 2025-present, King's College London
 
 Past Teaching
 -----
