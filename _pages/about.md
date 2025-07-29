@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m an Assistant Professor (or Lecturer in the UK system) in Large Language Models for Healthcare in the Department of Biostatistics & Health Informatics at King’s College London. I'm also an Hornary Research Fellow at the University of Oxford and a Visiting Researcher at Imperial College London.
+Welcome! I’m an Assistant Professor (or Lecturer in the UK system) in Large Language Models for Healthcare in the Department of Biostatistics & Health Informatics at King’s College London. I'm also an Honorary Research Fellow at the University of Oxford and a Visiting Researcher at Imperial College London.
 
 My research is devoted to harnessing artificial intelligence (AI) to improve the lives of people living with complex chronic conditions, particularly cardiometabolic and neurodegenerative diseases. I develop and translate cutting-edge AI methods, ranging from foundation models, closed-loop algorithms, and digital-twin frameworks, to support real-world clinical decision-making. My work spans running deep learning models on wearables and embedded devices, fusing multimodal biomedical data streams, and building end-to-end digital health systems.
 
