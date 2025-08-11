@@ -17,7 +17,7 @@ author_profile: true
 - **Multimodal embeddings**  
   - Fusing wearable time-series (e.g. continuous glucose monitoring, CGM), medical images and narrative notes to enable richer clinical reasoning.  
 - **Transparency & trust**  
-  - Integrating attention hmaps, counterfactual explanations, and chain-of-thought traces so clinicians can scrutinise model outputs.
+  - Integrating attention maps, counterfactual explanations, and chain-of-thought traces so clinicians can scrutinise model outputs.
 
 </details>
 
